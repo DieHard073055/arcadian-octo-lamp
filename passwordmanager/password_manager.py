@@ -90,5 +90,5 @@ def menu():
 			sys.exit(0)				
 	
 if __name__ == '__main__':
-	read_file()
+	#read_file()
 	menu()
